@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Seong_Woong_Kim&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=130&section=header&text=Seong_Woong_Kim&fontSize=70&animation=twinkling)
 
 </br>
 

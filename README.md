@@ -1,4 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Seong_Woong_Kim&fontSize=80&animation=twinkling)
 
+</br>
 
 # 🙂 About Me 🙂   
   

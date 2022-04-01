@@ -55,9 +55,6 @@
 <a href="https://github.com/Seongwoong-sk" target="_blank">
 <img src=https://img.shields.io/badge/github-333333.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 3px;" />
 </a>
-<a href="https://www.notion.so/STUDY-9366dcf337954c0196cf5a3038e926fd" target="_blank">
-<img src=https://img.shields.io/badge/Notion-333333.svg?&style=for-the-badge&logo=Notion&logoColor=white alt=facebook style="margin-bottom: 3px;" />
-</a> 
 <a href="https://seongwoong-sk.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio_Blog-333333.svg?&style=for-the-badge&logo=GitBook&logoColor=white alt=Portfolio Blog style="margin-bottom: 3px;" />
 </a> 

@@ -2,23 +2,23 @@
 
 </br>
 
-# 🙂 About Me 🙂   
+# 🙂 About Me 🙂 
   
 
-⚡ I am Highly into Deep Learning, Computer Vision, **Object Detection, and Especially  Abnormal Objects, Event Detection**.  
+#### I am Highly into Deep Learning, Computer Vision, **Object Detection, and Especially  Abnormal Objects, Event Detection**.  
   
 
- 👨🏻‍💻 I am **Currently Working on** [Team project : Abnormal Object Detection](https://github.com/Seongwoong-sk/airplane), [Competition Study](https://github.com/bongbolobong/CV-Study) and [Coding Test Study](https://github.com/Seongwoong-sk/python-for-coding-test).  
+#### I am **Currently Working on** [Team project : Abnormal Object Detection](https://github.com/Seongwoong-sk/airplane), [Competition Study](https://github.com/bongbolobong/CV-Study) and [Coding Test Study](https://github.com/Seongwoong-sk/python-for-coding-test).  
   
 
-✏️ I am Currently **Studying** Various Papers of Object Detection.  
+#### I am Currently **Studying** Various Papers of Object Detection.  
   
 
 <br/>  
 
 
 # 🛠️ Skill Set 🛠️
-### 🌟 Mainly Using
+### Mainly Using
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp; 

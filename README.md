@@ -8,7 +8,7 @@
 #### I am Highly into Deep Learning, Computer Vision, **Object Detection, and Especially  Abnormal Objects, Event Detection**.  
   
 
-#### I am **Currently Working on** [Team project : Abnormal Object Detection](https://github.com/Seongwoong-sk/airplane), [Competition Study](https://github.com/bongbolobong/CV-Study) and [Coding Test Study](https://github.com/Seongwoong-sk/python-for-coding-test).  
+#### I am **Currently Working on** Team project, Competition Study and Coding Test Study.  
   
 
 #### I am Currently **Studying** Various Papers of Object Detection.  

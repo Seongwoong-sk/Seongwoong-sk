@@ -2,22 +2,20 @@
 
 </br>
 
-# 🙂 About Me 🙂 
+# About Me
   
 
-#### I am Highly into Deep Learning, Computer Vision, Object Detection, and Especially  Abnormal Objects, Event Detection.
+#### I am highly into deep learning, computer vision, object detection, and especially  abnormal objects, event detection.
+
+#### I am currently learning various object detection papers.
 
 
-#### I am **Currently Working on** Team project, Competition Study and Coding Test Study.
-
-
-#### I am Currently **Studying** Various Papers of Object Detection.  
   
 
 <br/>  
 
 
-# 🛠️ Skill Set 🛠️
+# Skill Set
 ### Mainly Using
 
 
@@ -30,7 +28,7 @@
 
 
 
-### Have Used At Least Once
+### Experienced
 
 <img src="https://img.shields.io/badge/Scikit learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp; 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp; 
@@ -51,18 +49,21 @@
 <br/>  
 
 
-# 🧲 How to Reach Me 🧲  
+# How to Reach Me
 <a href="https://github.com/Seongwoong-sk" target="_blank">
 <img src=https://img.shields.io/badge/github-333333.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 3px;" />
 </a>
-<a href="https://seongwoong-sk.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio_Blog-333333.svg?&style=for-the-badge&logo=GitBook&logoColor=white alt=Portfolio Blog style="margin-bottom: 3px;" />
+<a href="https://giddy-scooter-aaa.notion.site/AI-ad42b3b2cf4c415c99a4d8b0602058a0" target="_blank">
+<img src=https://img.shields.io/badge/Curriculum_Vitae-000000.svg?&style=for-the-badge&logo=notion&logoColor=white alt=notion Blog style="margin-bottom: 3px;" />
 </a> 
+<a href="https://giddy-scooter-aaa.notion.site/Portfolio-ecf452a228714fb38702e7a2e583115f" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-333333.svg?&style=for-the-badge&logo=GitBook&logoColor=white alt=Portfolio Blog style="margin-bottom: 3px;" />
+</a> 
+<a href="https://velog.io/@dahara3" target="_blank">
+<img src=https://img.shields.io/badge/Blog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white alt=velog style="margin-bottom: 3px;" />
+</a>  
 <a href="mailto:rlatjddnd3@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-C70D2C.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 3px;" />
-</a>  
-<a href="https://www.facebook.com/dahara3@nate.com" target="_blank">
-<img src=https://img.shields.io/badge/Facebook-004088.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 3px;" />
 </a>  
 
 

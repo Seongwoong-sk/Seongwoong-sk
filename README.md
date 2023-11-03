@@ -15,7 +15,7 @@
 <br/>  
 
 
-# How to Reach Me
+<!-- # How to Reach Me -->
 
 <!-- <a href="https://giddy-scooter-aaa.notion.site/AI-ad42b3b2cf4c415c99a4d8b0602058a0" target="_blank">
 <img src=https://img.shields.io/badge/Curriculum_Vitae-333333.svg?&style=for-the-badge&logo=notion&logoColor=white alt=notion Blog style="margin-bottom: 3px;" />

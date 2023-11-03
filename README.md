@@ -23,9 +23,9 @@
 <a href="https://giddy-scooter-aaa.notion.site/Portfolio-ecf452a228714fb38702e7a2e583115f" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-333333.svg?&style=for-the-badge&logo=GitBook&logoColor=white alt=Portfolio Blog style="margin-bottom: 3px;" />
 </a> 
-<a href="https://velog.io/@dahara3" target="_blank">
-<img src=https://img.shields.io/badge/Blog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white alt=velog style="margin-bottom: 3px;" />
-</a>  
+# <a href="https://velog.io/@dahara3" target="_blank">
+# <img src=https://img.shields.io/badge/Blog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white alt=velog style="margin-bottom: 3px;" />
+# </a>  
 <a href="mailto:rlatjddnd3@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-C70D2C.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 3px;" />
 </a>  

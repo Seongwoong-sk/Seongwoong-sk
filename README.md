@@ -3,14 +3,15 @@
 </br>
 
 # About Me
-  
 
-#### I am highly into deep learning, computer vision, especially object detection.
+#### I'm currently working as a **computer vision research engineer**.
 
-#### Lately, I have been immersing myself in the exploration of multimodal learning, specifically the interplay between visual and textual modalities.
+#### Lately, I have been immersing myself in the exploration of **multimodal learning, specifically the interplay between visual and textual modalities.**
 
-#### You could check out archives of what I did 👉 [projects](https://github.com/Seongwoong-sk/-Project_Archive-), [competitions](https://github.com/Seongwoong-sk/-Competition_Archive-), [subjects I've studied](https://github.com/Seongwoong-sk/-Study_Archive-)
-  
+
+<!-- #### You could check out archives of what I did 👉 [projects](https://github.com/Seongwoong-sk/-Project_Archive-), [competitions](https://github.com/Seongwoong-sk/-Competition_Archive-), [subjects I've studied](https://github.com/Seongwoong-sk/-Study_Archive-) -->
+
+
 
 <br/>  
 

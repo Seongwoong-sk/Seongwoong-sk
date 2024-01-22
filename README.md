@@ -4,8 +4,6 @@
 
 # About Me
 
-#### ✨ Current **Computer Vision Research Engineer** at [STans](https://stans.co.kr/kr/).
-
 #### 🔥 Current member of [Multimodal Lab](https://modulabs.co.kr/product/lab-13989-2023-11-02-044514/) at Everyone's Laboratory.
 
 #### Lately, I have been immersing myself in the exploration of **multimodal learning, specifically the interplay between visual and textual modalities.**
